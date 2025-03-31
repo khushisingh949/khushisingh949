@@ -1,5 +1,5 @@
  <h1 align="center">👋 Hi, I'm Khushi Singh</h1>
- <h1 align="center">Welcome to My GitHub Profile</h1>
+ <h1 align="center">👨‍💻 Welcome to my GitHub profile! 🚀</h1>
 
  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
